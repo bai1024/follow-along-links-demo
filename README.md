@@ -2,7 +2,11 @@
 
 [Online Demo](https://dingdingbai.github.io/follow-along-links/)
 
-![](http://ok7n02kz6.bkt.clouddn.com/FqYu_G8VWm6HhR82949Aqi4MVP0L.gif)
+<p align="center">
+
+<img src="http://ok7n02kz6.bkt.clouddn.com/FqYu_G8VWm6HhR82949Aqi4MVP0L.gif">
+
+</p>
 
  ## Features
 
