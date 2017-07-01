@@ -1,4 +1,4 @@
-## # fllow-along-links
+## follow-along-links
 
 [Online Demo](https://dingdingbai.github.io/follow-along-links/)
 
